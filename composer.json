@@ -1,9 +1,6 @@
 {
     "name": "bmbrands/theme_bootstrap",
     "type": "moodle-theme",
-    "require": {
-        "embanet-compass/installers": "~1.0"
-    },
     "extra": {
         "installer-name": "bootstrap",
         "moodle": { "package_folder_name" : "bootstrap" }
